@@ -126,17 +126,13 @@ Restaurant_Sales_Analysis
 
 ---
 
-# 📊 Key Insights
+## 📊 Key Insights
 
-🏆 Italian category generated the highest revenue.
-
-🍝 Spaghetti & Meatballs was the best-selling menu item.
-
-📉 Cheese Lasagna generated the lowest revenue.
-
-⏰ Lunch and dinner hours received the highest number of orders.
-
-📈 January recorded the highest sales.
+- 🏆 Italian category generated the highest revenue (₹18.53K | 36.35%).
+- 🥩 Korean Beef Bowl is the top revenue-generating menu item (₹10.55K).
+- ⚠️ Chicken Tacos recorded the lowest orders (123) and needs attention.
+- 📅 January achieved the highest total orders (539).
+- 💰 Average Order Value: ₹29.80 across 5,000 customer orders.
 
 ---
 
