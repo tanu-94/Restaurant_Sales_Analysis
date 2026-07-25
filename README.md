@@ -128,11 +128,15 @@ Restaurant_Sales_Analysis
 
 ## 📊 Key Insights
 
-- 🏆 Italian category generated the highest revenue (₹18.53K | 36.35%).
-- 🥩 Korean Beef Bowl is the top revenue-generating menu item (₹10.55K).
-- ⚠️ Chicken Tacos recorded the lowest orders (123) and needs attention.
-- 📅 January achieved the highest total orders (539).
-- 💰 Average Order Value: ₹29.80 across 5,000 customer orders.
+🏆 Italian cuisine emerged as the top-performing category, generating ₹18.53K in revenue (36.35% of total sales).
+
+🥩 Korean Beef Bowl was the highest revenue-generating menu item, contributing ₹10.55K in sales.
+
+⚠️ Chicken Tacos recorded the fewest orders (123), indicating an opportunity to review pricing, promotion, or customer preferences.
+
+📅 January achieved the highest order volume with 539 orders, reflecting the strongest monthly demand.
+
+💰 The restaurant processed 5,000 customer orders, with an Average Order Value (AOV) of ₹29.80, providing a benchmark for future revenue growth strategies.
 
 ---
 
